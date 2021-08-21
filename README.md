@@ -2,7 +2,7 @@
 
 ## Abstract 
 
-The days of calling into a restaurant to speak with a rude host are finally over. Whether its constantly being put on hold or having to scream your order through the deafening background noise, ordering food has always been a hassle.
+The days of calling into a restaurant to speak with a rude executive are finally over. Whether its constantly being put on hold or having to scream your order through the deafening background noise, ordering food has always been a hassle.
 Well thankfully, there’s hope, thanks to some amazing on-demand food delivery service apps! With just a few taps on the screen, we now have access to hundreds of new restaurants and delicious cuisines of every kind one can think of.
 Food delivery apps like Swiggy and Zomato allow one to order from a wide range of restaurants and across a wider distance range than most restaurants may organically offer. Contact – less delivery options have also helped cut down the need to stand at the door and wait.
 
