@@ -51,11 +51,3 @@ The following algorithm was brainstormed to write the code for the project, so a
     * Order details with amount payable.
     * Order delivery time, estimated through simulation.
 
-## Output samples
-
-Sample 1
-![Output sample 1](https://user-images.githubusercontent.com/78582744/130320131-e1d035d6-b48c-49a1-b15b-06cbbc253b07.png)
-
-Sample 2
-![Output sample 2](https://user-images.githubusercontent.com/78582744/130320135-2c2ecdd8-0c9b-4ae1-9f4d-1c6725e0e380.png)
-
